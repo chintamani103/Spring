@@ -17,7 +17,7 @@ public class HelloRestController {
     
     @RequestMapping("/")    
     public String index() {
-		return "Hello World From GitHub!";
+		return "Hello World From GitHub123!";
 	}
     
 }
