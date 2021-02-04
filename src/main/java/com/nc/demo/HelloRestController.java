@@ -8,10 +8,6 @@ package com.nc.demo;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-/**
- *
- * @author INTEL
- */
 @RestController
 public class HelloRestController {
     
